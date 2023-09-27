@@ -27,7 +27,7 @@ The paper shows a novel approach to simulating quantum optical circuits that con
     with buffer strategy [^1]
 
 - **Figure 9:** Density matrix simulation of a 2-mode circuit for conditional state generation
-  - [fig9_densityMatrix_stateGeneration_2modes.gif](https://github.com/rdprins/GIFs_NoisyCircuits/blob/main/fig9_densityMatrix_stateGeneration_2modes.gif):
+  - [fig9_densityMatrix_stateGeneration_2modes.gif](https://github.com/rdprins/GIFs_NoisyCircuits/blob/main/fig9_densityMatrix_stateGeneration_2modes.gif)
     
 - **Figure 11:** Density matrix simulations of a 3-mode GBS circuit
   - [fig11_densityMatrix_GBS_3modes.gif](https://github.com/rdprins/GIFs_NoisyCircuits/blob/main/fig11_densityMatrix_GBS_3modes.gif)
