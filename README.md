@@ -19,7 +19,7 @@ The paper shows a novel approach to simulating quantum optical circuits that con
   - [fig5b_densityMatrix_GBS_1mode_withDisplacement.gif](https://github.com/rdprins/GIFs_NoisyCircuits/blob/main/fig5b_densityMatrix_GBS_1mode_withDisplacement.gif):
     circuit with displacement gates
   - [fig5b_densityMatrix_GBS_1mode_withDisplacement_bufferStrategy.gif](https://github.com/rdprins/GIFs_NoisyCircuits/blob/main/fig5b_densityMatrix_GBS_1mode_withDisplacement_bufferStrategy.gif):
-    circuit with displacement gates, with buffer strategy [^1]
+    circuit with displacement gates, simulated with buffer strategy [^1]
 
 - **Figure 7:** Density matrix simulations of a 2-mode GBS circuit
   - [fig7_densityMatrix_GBS_2modes.gif](https://github.com/rdprins/GIFs_NoisyCircuits/blob/main/fig7_densityMatrix_GBS_2modes.gif)
