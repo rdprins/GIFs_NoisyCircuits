@@ -34,4 +34,4 @@ The paper shows a novel approach to simulating quantum optical circuits that con
   - [fig11_densityMatrix_GBS_3modes_bufferStrategy.gif](https://github.com/rdprins/GIFs_NoisyCircuits/blob/main/fig11_densityMatrix_GBS_3modes_bufferStrategy.gif):
     with buffer strategy [^1]
 
-[^1]: The buffer strategy is intriduced in section 3.1.4 of the manuscript. When applying this strategy, the off-diagonal amplitudes are removed from memory once they have been used.
+[^1]: The buffer strategy is introduced in section 3.1.4 of the manuscript. When applying this strategy, the off-diagonal amplitudes are removed from memory once they have been used.
