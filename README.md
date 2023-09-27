@@ -22,8 +22,7 @@ The paper shows a novel approach to simulating quantum optical circuits that con
     circuit with displacement gates, with buffer strategy [^1]
 
 - **Figure 7:** Density matrix simulations of a 2-mode GBS circuit
-  - [fig7_densityMatrix_GBS_2modes.gif](https://github.com/rdprins/GIFs_NoisyCircuits/blob/main/fig7_densityMatrix_GBS_2modes.gif):
-    without buffer strategy
+  - [fig7_densityMatrix_GBS_2modes.gif](https://github.com/rdprins/GIFs_NoisyCircuits/blob/main/fig7_densityMatrix_GBS_2modes.gif)
   - [fig7_densityMatrix_GBS_2modes_bufferStrategy.gif](https://github.com/rdprins/GIFs_NoisyCircuits/blob/main/fig7_densityMatrix_GBS_2modes_bufferStrategy.gif):
     with buffer strategy [^1]
 
@@ -31,8 +30,7 @@ The paper shows a novel approach to simulating quantum optical circuits that con
   - [fig9_densityMatrix_stateGeneration_2modes.gif](https://github.com/rdprins/GIFs_NoisyCircuits/blob/main/fig9_densityMatrix_stateGeneration_2modes.gif):
     
 - **Figure 11:** Density matrix simulations of a 3-mode GBS circuit
-  - [fig11_densityMatrix_GBS_3modes.gif](https://github.com/rdprins/GIFs_NoisyCircuits/blob/main/fig11_densityMatrix_GBS_3modes.gif):
-    without buffer strategy
+  - [fig11_densityMatrix_GBS_3modes.gif](https://github.com/rdprins/GIFs_NoisyCircuits/blob/main/fig11_densityMatrix_GBS_3modes.gif)
   - [fig11_densityMatrix_GBS_3modes_bufferStrategy.gif](https://github.com/rdprins/GIFs_NoisyCircuits/blob/main/fig11_densityMatrix_GBS_3modes_bufferStrategy.gif):
     with buffer strategy [^1]
 
